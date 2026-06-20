@@ -10,14 +10,14 @@
   - State-wise financial performance 
   - Transaction type profitability 
   - Gender-based customer analysis 
-  - Year-over-Year (YoY) performance changes 
-  ### The dashboard will help stakeholders identify business trends, improve decision-making, optimize transaction strategies, and monitor financial health.
-    - Monitor KPIs in real time. 
-    - Identify high-performing customer segments and states. 
-    - Analyze transaction patterns and trends.
-    - Track operational fees and taxes 
-    - Understand customer demographics .
-    - Improve financial decision-making and business strategy.
+  - Year-over-Year (YoY) performance changes
+### The dashboard will help stakeholders identify business trends, improve decision-making, optimize transaction strategies, and monitor financial health.
+  - Monitor KPIs in real time. 
+  - Identify high-performing customer segments and states. 
+  - Analyze transaction patterns and trends.
+  - Track operational fees and taxes 
+  - Understand customer demographics .
+  - Improve financial decision-making and business strategy.
 
 ### The dashboard should allow users to dynamically filter data by:
   -	Year 
@@ -57,11 +57,31 @@
     - Users can select any data point and navigate to a detailed view showing related transaction-level information.
 ### Testing and Validations
   - Verified DAX measures and dashboard visuals for data accuracy and consistency.
-  - Tested report interactions, filters, and slicers to ensure proper functionality
+  - Tested report interactions, filters, and slicers to ensure proper functionality.
+## Dashboard
+ - Overview Analysis
+   - Total Amount, total Tax, total fees, total Transactions By month.
+   - Total Amount, Tax,Fees, Transactions by transaction status.
+   - Total amount,tax,fees,transactions by customer segment.
+   - Total Amount, Tax,Fees, Transactions by State.
+   - Transaction Type Analysis
+   - Total Amount, Tax,Fees, Transactions by gender.
+   - Dynamic Slicers (Year,Metrics)
+   - Dynamic metrics(Total Amount,Total Tax, Total Fees, Total Transaction)
+   - Slicers (Occupations, Category)
+   - Added page navigation buttons to allow users to switch between different report sections easily.
+   - Cards(Total Amount,Total tax, Total Fees, Total Transactions, Avg Transaction).
+   - Implemented previous year comparison using DAX time intelligence.
+   - Displays percentage growth or decline against the previous year's performance.
+ - Transactions
+   - Created a dedicated transaction detail page displaying complete transaction-level information.
+   - Added drill-through functionality to allow users to navigate from summary visuals to detailed records.
+   - Users can select a specific data point and view related transaction details based on applied filters.
+   - Implemented slicer synchronization across multiple report pages.
 
-        
-  
-  
 
-  
+ (For Example):
+     
+<img width="1367" height="725" alt="Overview Analysis" src="https://github.com/user-attachments/assets/7b095f7c-52f5-40fb-a3b2-94835b17a0c9" />
 
+<img width="1360" height="731" alt="Transactions" src="https://github.com/user-attachments/assets/0ee9e73b-afd3-4a50-a474-5bbb5b7f2df3" />
