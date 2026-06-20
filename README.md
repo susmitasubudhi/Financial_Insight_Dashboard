@@ -1,7 +1,7 @@
 # Financial_Insight_Dashboard
 ## Project Objective
   A financial organization wants to develop an interactive Finance Analytics Dashboard using Power BI to monitor and analyze transaction performance, customer behavior, revenue generation, and financial trends.
-  The management team requires a centralized dashboard to gain insights into:
+  #### The management team requires a centralized dashboard to gain insights into:
           - Overall transaction growth and financial performance 
           - Monthly trends in transaction amounts
           - Successful vs failed transactions
@@ -34,7 +34,7 @@
   - Dynamic Measures.
 ## Process
 ### Data Collection
-      The Finance Analytics dataset used for this project was obtained from publicly available learning resources.
+      - The Finance Analytics dataset used for this project was obtained from publicly available learning resources.
   ### Data Cleaning and Preparations
      - Removing Duplicates, Handling Missing Values.
      - Converted Date fields to proper date/time format.
