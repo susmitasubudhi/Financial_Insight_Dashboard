@@ -2,27 +2,27 @@
 ## Project Objective
   A financial organization wants to develop an interactive Finance Analytics Dashboard using Power BI to monitor and analyze transaction performance, customer behavior, revenue generation, and financial trends.
   The management team requires a centralized dashboard to gain insights into:
-    •	Overall transaction growth and financial performance 
-    •	Monthly trends in transaction amounts 
-    •	Successful vs failed transactions 
-    •	Customer segment contribution 
-    •	State-wise financial performance 
-    •	Transaction type profitability 
-    •	Gender-based customer analysis 
-    •	Year-over-Year (YoY) performance changes 
+     - Overall transaction growth and financial performance 
+     - Monthly trends in transaction amounts 
+     -	Successful vs failed transactions 
+     - Customer segment contribution 
+     - State-wise financial performance 
+     - Transaction type profitability 
+     - Gender-based customer analysis 
+     - Year-over-Year (YoY) performance changes 
 ### The dashboard will help stakeholders identify business trends, improve decision-making, optimize transaction strategies, and monitor financial health.
-   •	Monitor KPIs in real time 
-   •	Identify high-performing customer segments and states 
-   •	Analyze transaction patterns and trends 
-   •	Track operational fees and taxes 
-   •	Understand customer demographics 
-   •	Improve financial decision-making and business strategy.
+   -	Monitor KPIs in real time 
+   -	Identify high-performing customer segments and states 
+   -	Analyze transaction patterns and trends 
+   -	Track operational fees and taxes 
+   -	Understand customer demographics 
+   -	Improve financial decision-making and business strategy.
 
 ### The dashboard should allow users to dynamically filter data by:
-  •	Year 
-  •	Dynamic Measure 
-  •	Occupation 
-  •	Category 
+  -	Year 
+  -	Dynamic Measure 
+  -	Occupation 
+  -	Category 
 ## Questions(KPI)
   - What is the total transaction amount generated across different years?
   - How many transactions were completed and how does the transaction volume change over time?
