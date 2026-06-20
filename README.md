@@ -58,6 +58,10 @@
 ### Testing and Validations
   - Verified DAX measures and dashboard visuals for data accuracy and consistency.
   - Tested report interactions, filters, and slicers to ensure proper functionality.
+### Data Model Architecture
+  The project uses a star schema data model with a Finance fact table connected to Customer and Date dimension tables for efficient analysis and reporting.
+       <img width="1097" height="588" alt="Data Model" src="https://github.com/user-attachments/assets/6cc18e58-186a-4051-8206-d269edfb29ed" />
+
 ## Dashboard
  - Overview Analysis
    - Total Amount, total Tax, total fees, total Transactions By month.
@@ -85,3 +89,4 @@
 <img width="1367" height="725" alt="Overview Analysis" src="https://github.com/user-attachments/assets/7b095f7c-52f5-40fb-a3b2-94835b17a0c9" />
 
 <img width="1360" height="731" alt="Transactions" src="https://github.com/user-attachments/assets/0ee9e73b-afd3-4a50-a474-5bbb5b7f2df3" />
+
